@@ -1,5 +1,7 @@
 #!/usr/bin/python3
+
 """function takes argument 2 strings"""
+
 import os
 import sys
 
