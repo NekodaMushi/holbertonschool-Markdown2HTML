@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+"""Function with md5 converter and c_remover"""
+
 if __name__ == "__main__":
     import os
     import sys
